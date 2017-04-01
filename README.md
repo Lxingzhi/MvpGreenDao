@@ -1,10 +1,10 @@
-###简介  
+#简介<br>
 1.本Demo采用mvp模式。<br>
 2.SwipeListView侧滑listview<br>
 3.内继承greendao3.2.1<br>
 4.对GrennDao操作数据库进行了封装。<br>
 5.内含多个工具类。<br>
-###内容
+#内容<br>
  1）AnimUtils		基础动画操作。<br>
  2）AppUtils		此类主要存储无法形成类别的数据，但又需要保存和操作的。<br>
  3）BitmapUtils		保存图片；得到图片；不等比缩放bitmap；等比高度缩放等(建议用)<br>
