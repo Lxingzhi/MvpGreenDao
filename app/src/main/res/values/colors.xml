@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#02397c</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="aniflashwhite">#F2F3F4</color>
+    <color name="mercury">#E4E5E6</color>
+    <color name="lightgray">#D3D4D5</color>
+    <color name="gray">#828384</color>
+    <!--shadowview-->
+    <color name="blue_dark">#ff1976d1</color>
+    <color name="blue">#ff2195f2</color>
+    <color name="background">#FF333333</color>
+    <color name="shadow">#AA000000</color>
+    <color name="trans_gray">#33000000</color>
+    <color name="red">#ff0000</color>
+    <color name="transparent">#00000000</color>
+</resources>
